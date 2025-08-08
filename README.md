@@ -26,7 +26,7 @@ I'm Dikendra Baduwal, a Biomedical Engineer focused on building scalable ML/DL s
 - 🔭 I’m currently working on: ** Brain and Thigh MRI processing and Segmentation**, production-ready DL pipelines, and an open-source medical imaging toolkit.  
 - 🌱 I’m learning: advanced model interpretability and efficient deep learning for limited-data regimes and RAG model for building medical Chatbot. 
 - 💬 Ask me about: PyTorch,Numpy, DICOM, DICOM Anonymizer, 3D-Slicer,Different DL/ML models.   
-- ⚡ Fun fact: Coffee and E-football fuels my debugging sessions ☕
+- ⚡ Fun fact: Coffee and tea fuels my debugging sessions ☕
 
 ---
 
