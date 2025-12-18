@@ -70,7 +70,7 @@ I'm Dikendra Baduwal, a Biomedical Engineer focused on building scalable ML/DL s
 ---
 
 ## 🔭 Currently working on
-- **RAG based medical-Chatbot using langchain,LLM and Flask** — I developed an app named medical chatbot which answers all user questions about medical diseases and suggests additional treatment information.     
+- **RAG-based medical chatbot using langchain, LLM, and Flask** — I developed an app named medical chatbot, which answers all user questions about medical diseases and suggests additional treatment information.     
 - **Open-source medical image processing toolkit** to standardize DICOM images and prepare them for segmentation challenges.  
 
 ---
@@ -88,11 +88,12 @@ I'm Dikendra Baduwal, a Biomedical Engineer focused on building scalable ML/DL s
 
 ## 📝 Blog / Publications
 - Recent post: *“GAN-MRI enhanced multi-organ MRI segmentation: a deep learning perspective”* — [Springer Link](https://link.springer.com/article/10.1007/s12194-025-00938-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250808&utm_content=10.1007%2Fs12194-025-00938-7)
+- *“AI-driven MR thigh scan analysis for body composition phenotypic classification of healthy older persons”* — https://www.sciencedirect.com/science/article/pii/S3050577125000477
 
 ---
 
 ## 🎧 What I’m listening to / reading
-- *Now playing* (Spotify): Love to listen Nepali typical music.  
+- *Now playing* (Spotify): Love to listen to Nepali typical music.  
 - *Reading:* Papers on model calibration and sample-efficient learning.
 
 ---
