@@ -88,7 +88,7 @@ I'm Dikendra Baduwal, a Biomedical Engineer focused on building scalable ML/DL s
 
 ## 📝 Blog / Publications
 - *“GAN-MRI enhanced multi-organ MRI segmentation: a deep learning perspective”* — [Springer Link](https://link.springer.com/article/10.1007/s12194-025-00938-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250808&utm_content=10.1007%2Fs12194-025-00938-7)
- *AI-driven MR thigh scan analysis for body composition phenotypic classification of healthy older persons* — [Link](https://www.sciencedirect.com/science/article/pii/S3050577125000477)
+- *AI-driven MR thigh scan analysis for body composition phenotypic classification of healthy older persons* — [Link](https://www.sciencedirect.com/science/article/pii/S3050577125000477)
 
 - 
 ---
